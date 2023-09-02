@@ -1,0 +1,8 @@
+<resources>
+
+    <dimen name="time_line_width">40dp</dimen>
+    <dimen name="root_layout_padding">15dp</dimen>
+    <dimen name="time_line_stroke_width">1dp</dimen>
+    <dimen name="time_line_oval_radius">5dp</dimen>
+
+</resources>
